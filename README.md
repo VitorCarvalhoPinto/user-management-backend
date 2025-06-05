@@ -6,7 +6,7 @@ Uma API RESTful simples para gerenciamento de usuários e autenticação, constr
 
 ## 🚀 Primeiros Passos
 
-1. **Clone o repositório**
+1. **Clone o repositório** https://github.com/VitorCarvalhoPinto/user-management-backend.git
 2. **Instale as dependências**
 
    ```powershell
